@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPractical</string>
+
+    <string-array name="priority">
+        <item>Android</item>
+        <item>Ios</item>
+        <item>Web</item>
+    </string-array>
+
+</resources>
